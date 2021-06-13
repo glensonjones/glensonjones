@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @glensonjones
 - 👀 I’m interested in raspberry pi's
-- 🌱 I’m currently learning python etc to use on R Pi's
+- 🌱 I’m currently learning python etc to use on my PC and on R Pi's
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
